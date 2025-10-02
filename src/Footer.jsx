@@ -1,6 +1,12 @@
 import React from "react";
 
-export default function Footer() {
-    const d=new Date();
-  return <footer><p>© {d.getFullYear()} Aldin Velić. All rights reserved.</p></footer>;
+function Footer() {
+  const year = new Date().getFullYear();
+  return (
+    <footer>
+      <p>Copyright ⓒ {year}</p>
+    </footer>
+  );
 }
+
+export default Footer;
