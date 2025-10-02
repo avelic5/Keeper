@@ -1,16 +1,30 @@
-# React + Vite
+# **Keeper App**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[Check the live site here](https://keeper-w7yj.onrender.com/)
+<img width="600" height="315" alt="image" src="https://github.com/user-attachments/assets/a0580c53-80ef-4aa5-9e7f-1df9c7207df0" />
 
-Currently, two official plugins are available:
+##  **Description**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**Keeper** is a small React application I built as part of my initial learning journey in React and frontend development. The app allows users to create, view, and delete notes, helping me understand and practice core React concepts such as:
 
-## React Compiler
+- Using components
+- Managing state with `useState`
+- Passing data between parent and child components via `props`
+- Working with lists and events
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## **Features**
 
-## Expanding the ESLint configuration
+- Add new notes with a title and content
+- Delete individual notes
+- View a pre-populated list of example notes
+- Minimalist and responsive design
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+##  **Technologies Used**
+
+- **React** – for building the user interface
+- **Material-UI** – for buttons and icons
+- **CSS** – for styling components
+
+##  **Conclusion**
+
+Keeper is my first practical step into React and frontend development. Through this app, I am learning how to manage components and state effectively. I aim to continue developing my skills and enhance both the design and functionality in future projects.
