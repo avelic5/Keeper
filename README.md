@@ -1,7 +1,13 @@
 # **Keeper App**
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a0580c53-80ef-4aa5-9e7f-1df9c7207df0" width="600" height="315" alt="Keeper App Screenshot" />
+</p>
 
-[Check the live site here](https://keeper-w7yj.onrender.com/)
-<img width="600" height="315" alt="image" src="https://github.com/user-attachments/assets/a0580c53-80ef-4aa5-9e7f-1df9c7207df0" />
+<p align="center">
+  <a href="https://keeper-w7yj.onrender.com/">Check the live site here</a>
+</p>
+
+
 
 ##  **Description**
 
