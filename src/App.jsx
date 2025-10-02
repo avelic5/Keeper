@@ -34,6 +34,8 @@ const [lista, setLista] = useState([
 function f(){
   setLista(prev => [...prev,{heading,textarea}]);
   console.log(lista);
+  setHeading("");
+  setTextarea("");
 }
 
 function f2(id){
